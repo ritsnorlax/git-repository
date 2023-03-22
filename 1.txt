@@ -1,2 +1,1 @@
-this is the first file 
-this text has been written directly
+this chsnge has been done in local git 
